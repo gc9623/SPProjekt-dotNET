@@ -1,0 +1,5 @@
+c:\users\cime\documents\visual studio 2012\Projects\SP_faza4_take03\SP_faza4_take03\bin\SP_faza4_take03.dll
+c:\users\cime\documents\visual studio 2012\Projects\SP_faza4_take03\SP_faza4_take03\bin\SP_faza4_take03.pdb
+c:\users\cime\documents\visual studio 2012\Projects\SP_faza4_take03\SP_faza4_take03\obj\Debug\SP_faza4_take03.csprojResolveAssemblyReference.cache
+c:\users\cime\documents\visual studio 2012\Projects\SP_faza4_take03\SP_faza4_take03\obj\Debug\SP_faza4_take03.dll
+c:\users\cime\documents\visual studio 2012\Projects\SP_faza4_take03\SP_faza4_take03\obj\Debug\SP_faza4_take03.pdb

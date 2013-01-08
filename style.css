@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+
+header, footer, aside, nav, article {  
+    display: block;  
+}  
+
+body {  
+    margin: 0 auto;  
+    width: 940px;  
+    font: 13px/22px Helvetica, Arial, sans-serif;  
+    background: #f0f0f0 url('nasty_fabric.png') repeat;
+}  
+
+body > header {
+	color: Blue;
+	font-weight: bold;
+	text-align: center;
+    font: 13px/22px Helvetica, Arial, sans-serif;
+	text-shadow: 5px 4px 10px #000;
+	font-size: x-large;
+}
+
+body > header > a{
+	text-decoration: none;
+}
+
+h2 {  
+    font-size: 28px;  
+    line-height: 44px;  
+    padding: 22px 0;  
+}  
+h3 {  
+    font-size: 18px;  
+    line-height: 22px;  
+    padding: 11px 0;  
+}  
+p {  
+    padding-bottom: 0px;  
+}  
+
+nav {  
+    position: relative;
+	font-weight: bold;
+	background: #888888;  
+    background-size: 100%;  
+    border-radius: 22px;
+}  
+nav ul {  
+    margin: 0 auto;  
+    width: 940px;  
+    list-style: none;  
+}  
+nav ul li {  
+    float: left;  
+}  
+nav ul li a {  
+    display: block;  
+    margin-right: 20px;  
+    width: 140px;  
+    font-size: 14px;  
+    line-height: 44px;  
+    text-align: center;  
+    text-decoration: none;  
+}  
+nav ul li a:hover {  
+    color: #999999;  
+}  
+nav ul li.selected a {  
+    color: #111111;  
+}  
+
+#nastaviJezik{
+    font-size: x-small;
+    position: absolute;
+    top:0;
+    text-decoration: none;
+    color: #888888;
+}
+
+#content {  
+    display: table;  
+  	width: 940px;
+    margin-top: 66px;  
+    padding: 10px;  
+    background: #B4B4FF;  
+    background-size: 100%;  
+    border-radius: 22px;  
+}  
+#mainContent {  
+	background: #B2FFCC;
+	padding: 10px;  
+    background-size: 100%;  
+    border-radius: 22px;  
+    display: table-cell;  
+    width: 75%;   
+} 
+aside {    
+    background: #FFD685;  
+    padding: 10px;
+    background-size: 100%;  
+    border-radius: 22px;  
+    display: table-cell;  
+    width: 25%;  
+}  
+
+footer {
+	display: block;
+	text-align: center;
+}
+
+
+.error {
+    background-color:#ff8080;
+}
+.success {
+    background-color:#abfc90;
+}
+
